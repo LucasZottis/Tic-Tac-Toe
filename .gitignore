@@ -1,0 +1,6 @@
+# specific to CodeBlocks IDE
+Tic Tac Toe.layout
+Tic Tac Toe.depend
+# generated directories
+bin/
+obj/
